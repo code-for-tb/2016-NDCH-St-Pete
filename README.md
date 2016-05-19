@@ -11,7 +11,7 @@ Learn more at (http://codefortampabay.org/pages/NDCHStPete)
 
 Free! Register to attend: (http://StPeteHack4Change2016.Eventbrite.com)
 
-Here's a list of our local projects - Resources for them can be found in our [Wiki](https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki) 
+Here's a list of our local projects - Resources for them can be found in our [Wiki](https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki) You can also bring your own project ideas!
 
 #Support Our Schools
 A project of the St. Petersburg office of Education and Community Engagement
