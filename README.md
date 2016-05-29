@@ -9,8 +9,8 @@ Code for Tampa Bay National Day of Civic Hacking St. Petersburg 2016 resources. 
 ###Important Links
 * Event Web Page: http://codefortampabay.org/pages/NDCHStPete 
 * Register to attend:  http://StPeteHack4Change2016.Eventbrite.com through May 30, 2016
-* Visit [St. Pete National Day of Civic Hacking GitHub Wiki] (https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki) for full event details and resources
-* Project resources can be found in our [Wiki](https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki) You can also bring your own project ideas, or choose from among the [National Day of Civic Hacking federal challenges] (https://github.com/code-for-tb/2016-NDCH-St-Pete)
+* [St. Pete National Day of Civic Hacking GitHub Wiki] (https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki) for full event details and resources
+* You can also bring your own project ideas, or choose from among the [National Day of Civic Hacking federal challenges] (https://github.com/code-for-tb/2016-NDCH-St-Pete)
 
 ###Challenges
 
