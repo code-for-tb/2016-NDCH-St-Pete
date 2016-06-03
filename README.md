@@ -5,10 +5,11 @@ Code for Tampa Bay National Day of Civic Hacking St. Petersburg 2016 resources. 
 * St. Pete National Day of Civic Hacking
 * June 4, 2016 8am to 8pm
 * The Iron Yard - 260 1st Ave S Suite 300. St. Petersburg, FL
+* [Participant Info - Update 1] (https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki/Participant-Info)
+* [Participant Info - Update 2] (https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki/Participant-Info-Part-2)
 
 ###Important Links
 * Event Web Page: http://codefortampabay.org/pages/NDCHStPete 
-* Register to attend:  http://StPeteHack4Change2016.Eventbrite.com through May 30, 2016
 * [St. Pete National Day of Civic Hacking GitHub Wiki] (https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki) for full event details and resources
 * You can also bring your own project ideas, or choose from among the [National Day of Civic Hacking federal challenges] (https://github.com/code-for-tb/2016-NDCH-St-Pete)
 
