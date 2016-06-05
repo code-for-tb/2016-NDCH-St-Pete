@@ -7,6 +7,7 @@ Code for Tampa Bay National Day of Civic Hacking St. Petersburg 2016 resources. 
 * The Iron Yard - 260 1st Ave S Suite 300. St. Petersburg, FL
 * [Participant Info - Update 1] (https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki/Participant-Info)
 * [Participant Info - Update 2] (https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki/Participant-Info-Part-2)
+* [Post Event Note - June 5, 2016] (https://github.com/code-for-tb/2016-NDCH-St-Pete/wiki/Post-Event-Note)
 
 ###Important Links
 * Event Web Page: http://codefortampabay.org/pages/NDCHStPete 
